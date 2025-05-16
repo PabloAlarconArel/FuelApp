@@ -1,0 +1,205 @@
+Numero de cuenta:  12345
+Valor pagado:  $100
+la capacidad de combustible es: 49%
+la capacidad de combustible es: 50%
+la capacidad de combustible es: 51%
+la capacidad de combustible es: 52%
+la capacidad de combustible es: 53%
+la capacidad de combustible es: 54%
+la capacidad de combustible es: 55%Numero de cuenta:  123
+Valor pagado:  $0
+Numero de cuenta:  0
+Valor pagado:  $0
+la capacidad de combustible es: 14%
+la capacidad de combustible es: 15%
+la capacidad de combustible es: 16%
+la capacidad de combustible es: 17%
+la capacidad de combustible es: 18%
+la capacidad de combustible es: 19%
+la capacidad de combustible es: 20%
+la capacidad de combustible es: 21%
+la capacidad de combustible es: 22%
+la capacidad de combustible es: 23%
+Numero de cuenta:  0
+Valor pagado:  $0
+la capacidad de combustible es: 2%
+la capacidad de combustible es: 3%
+la capacidad de combustible es: 4%
+la capacidad de combustible es: 5%
+la capacidad de combustible es: 6%
+la capacidad de combustible es: 7%
+la capacidad de combustible es: 8%
+la capacidad de combustible es: 9%
+la capacidad de combustible es: 10%
+la capacidad de combustible es: 11%
+la capacidad de combustible es: 12%
+Numero de cuenta:  0
+Valor pagado:  $0
+la capacidad de combustible es: 19%
+la capacidad de combustible es: 20%
+la capacidad de combustible es: 21%
+la capacidad de combustible es: 22%
+la capacidad de combustible es: 23%
+la capacidad de combustible es: 24%
+la capacidad de combustible es: 25%
+la capacidad de combustible es: 26%
+la capacidad de combustible es: 27%
+la capacidad de combustible es: 28%
+la capacidad de combustible es: 29%
+la capacidad de combustible es: 30%
+la capacidad de combustible es: 31%
+la capacidad de combustible es: 32%
+Numero de cuenta:  0
+Valor pagado:  $0
+Numero de cuenta:  0
+Valor pagado:  $0
+la capacidad de combustible es: 6%
+la capacidad de combustible es: 7%
+la capacidad de combustible es: 8%
+la capacidad de combustible es: 9%
+la capacidad de combustible es: 10%
+la capacidad de combustible es: 11%
+la capacidad de combustible es: 12%
+la capacidad de combustible es: 13%
+la capacidad de combustible es: 14%
+la capacidad de combustible es: 15%
+la capacidad de combustible es: 16%
+la capacidad de combustible es: 17%
+la capacidad de combustible es: 18%
+la capacidad de combustible es: 19%
+la capacidad de combustible es: 20%
+la capacidad de combustible es: 21%
+la capacidad de combustible es: 22%
+la capacidad de combustible es: 23%
+la capacidad de combustible es: 24%
+la capacidad de combustible es: 25%
+la capacidad de combustible es: 26%
+la capacidad de combustible es: 27%
+la capacidad de combustible es: 28%
+la capacidad de combustible es: 29%
+la capacidad de combustible es: 30%
+la capacidad de combustible es: 31%
+la capacidad de combustible es: 32%
+la capacidad de combustible es: 33%
+la capacidad de combustible es: 34%
+la capacidad de combustible es: 35%
+la capacidad de combustible es: 36%
+la capacidad de combustible es: 37%
+la capacidad de combustible es: 38%
+la capacidad de combustible es: 39%
+la capacidad de combustible es: 40%
+la capacidad de combustible es: 41%
+la capacidad de combustible es: 42%
+la capacidad de combustible es: 43%
+la capacidad de combustible es: 44%
+la capacidad de combustible es: 45%
+la capacidad de combustible es: 46%
+la capacidad de combustible es: 47%
+la capacidad de combustible es: 48%
+la capacidad de combustible es: 49%
+la capacidad de combustible es: 50%
+la capacidad de combustible es: 51%
+la capacidad de combustible es: 52%
+la capacidad de combustible es: 53%
+la capacidad de combustible es: 54%
+la capacidad de combustible es: 55%
+la capacidad de combustible es: 56%
+la capacidad de combustible es: 57%
+la capacidad de combustible es: 58%
+la capacidad de combustible es: 59%
+la capacidad de combustible es: 60%
+la capacidad de combustible es: 61%
+la capacidad de combustible es: 62%
+la capacidad de combustible es: 63%
+la capacidad de combustible es: 64%
+la capacidad de combustible es: 65%
+la capacidad de combustible es: 66%
+la capacidad de combustible es: 67%
+Numero de cuenta:  0
+Valor pagado:  $0
+la capacidad de combustible es: 41%
+la capacidad de combustible es: 42%
+la capacidad de combustible es: 43%
+la capacidad de combustible es: 44%
+la capacidad de combustible es: 45%
+la capacidad de combustible es: 46%
+la capacidad de combustible es: 47%
+la capacidad de combustible es: 48%
+la capacidad de combustible es: 49%
+la capacidad de combustible es: 50%
+Numero de cuenta:  123123
+Valor pagado:  $100
+la capacidad de combustible es: 51%
+la capacidad de combustible es: 52%
+la capacidad de combustible es: 53%
+la capacidad de combustible es: 54%
+la capacidad de combustible es: 55%
+la capacidad de combustible es: 56%
+la capacidad de combustible es: 57%
+la capacidad de combustible es: 58%
+la capacidad de combustible es: 59%
+la capacidad de combustible es: 60%
+la capacidad de combustible es: 61%
+la capacidad de combustible es: 62%
+la capacidad de combustible es: 63%
+la capacidad de combustible es: 64%
+la capacidad de combustible es: 65%
+la capacidad de combustible es: 66%
+la capacidad de combustible es: 67%
+la capacidad de combustible es: 68%
+la capacidad de combustible es: 69%
+la capacidad de combustible es: 70%
+la capacidad de combustible es: 71%
+la capacidad de combustible es: 72%
+la capacidad de combustible es: 73%
+la capacidad de combustible es: 74%
+la capacidad de combustible es: 75%
+la capacidad de combustible es: 76%
+la capacidad de combustible es: 77%
+la capacidad de combustible es: 78%
+la capacidad de combustible es: 79%
+la capacidad de combustible es: 80%
+Numero de cuenta:  123123
+Valor pagado:  $1000
+la capacidad de combustible es: 81%
+la capacidad de combustible es: 82%
+la capacidad de combustible es: 83%
+la capacidad de combustible es: 84%
+la capacidad de combustible es: 85%
+la capacidad de combustible es: 86%
+la capacidad de combustible es: 87%
+la capacidad de combustible es: 88%
+la capacidad de combustible es: 89%
+la capacidad de combustible es: 90%
+la capacidad de combustible es: 91%
+la capacidad de combustible es: 92%
+la capacidad de combustible es: 93%
+la capacidad de combustible es: 94%
+la capacidad de combustible es: 95%
+la capacidad de combustible es: 96%
+la capacidad de combustible es: 97%
+la capacidad de combustible es: 98%
+la capacidad de combustible es: 99%
+la capacidad de combustible es: 100%
+la capacidad de combustible es: 40%
+la capacidad de combustible es: 41%
+la capacidad de combustible es: 42%
+la capacidad de combustible es: 43%
+la capacidad de combustible es: 44%
+la capacidad de combustible es: 45%
+la capacidad de combustible es: 46%
+la capacidad de combustible es: 47%
+la capacidad de combustible es: 48%
+la capacidad de combustible es: 49%
+la capacidad de combustible es: 50%
+la capacidad de combustible es: 51%
+la capacidad de combustible es: 52%
+la capacidad de combustible es: 53%
+la capacidad de combustible es: 54%
+la capacidad de combustible es: 55%
+la capacidad de combustible es: 56%
+la capacidad de combustible es: 57%
+la capacidad de combustible es: 58%
+la capacidad de combustible es: 59%
+la capacidad de combustible es: 60%
+la capacidad de combustible es: 61%
